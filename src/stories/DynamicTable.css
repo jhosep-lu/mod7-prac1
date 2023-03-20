@@ -1,0 +1,17 @@
+/* src/components/DynamicTable.css */
+.DynamicTable {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.DynamicTable th,
+.DynamicTable td {
+    border: 1px solid #6004a1;
+    padding: 8px;
+    text-align: left;
+}
+
+.DynamicTable th {
+    background-color: #a548e7;
+    font-weight: bold;
+}
